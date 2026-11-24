@@ -1,8 +1,8 @@
 /*
 * Program: mandelmivie.c
 * Author: Brody Hyland
-* Date:
-* Description:
+* Date: 11/23/2026
+* Description:  Creates 50 images of the Mandelbrot set to generate a zoom movie.
 */
 
 #include <stdio.h>
